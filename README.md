@@ -30,7 +30,7 @@
 </p>
 <!-- ANIME:END -->
 
-## 🎒 Инвентарь
+ ## 🧰 Инструменты
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,sass,git,github,vscode,visualstudio&perline=10&theme=dark" />
@@ -81,5 +81,6 @@
 </p>
 
 <p align="center"><i>//Здраствуйте</i></p>
+  <p align="center"><i>// Спасибо, что заглянули 👋</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
