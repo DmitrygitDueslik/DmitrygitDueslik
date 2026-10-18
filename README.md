@@ -71,7 +71,7 @@ A console calculator that does more than it seems: standard and advanced modes, 
 
 ### 🚗 [BMW Drive](https://github.com/DmitrygitDueslik/CML_Course_Project)
 
-An online BMW car store — my course project. Layout in HTML and SCSS, interactivity in JavaScript.
+An online BMW car store - my course project. Layout in HTML and SCSS, interactivity in JavaScript.
 
 ![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7)
 ![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css&logoColor=7aa2f7)
