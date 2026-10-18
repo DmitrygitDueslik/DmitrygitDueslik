@@ -8,20 +8,16 @@
   <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmitrygitdraynov%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
-## 👾 Кто я
+## 👤  Карточка обо мне
 
-```csharp
-public class DueSlik : Student
-{
-    public string   Name  => "Дмитрий";
-    public string   Now   => "3 семестр: ООП на C# и скриптовые языки";
-    public string[] Stack => new[] { "C++", "C#", "JavaScript", "HTML/CSS" };
-    public string   Fuel  => "чай ☕ + аниме по вечерам";
-
-    public void Compile() =>
-        Console.WriteLine("Скомпилировалось с первого раза? Подозрительно 🤨");
-}
-```
+<table align="center">
+  <tr><td>🎓 <b>Кто я</b></td><td>Студент-программист</td></tr>
+  <tr><td>📅 <b>Курс</b></td><td>3 семестр</td></tr>
+  <tr><td>💻 <b>Языки</b></td><td>C++ · C# · JavaScript · HTML / SCSS</td></tr>
+  <tr><td>🔭 <b>Сейчас изучаю</b></td><td>ООП и скриптовые языки</td></tr>
+  <tr><td>✅ <b>Готовые проекты</b></td><td>🧮 Калькулятор · 🚗 BMW Drive</td></tr>
+  <tr><td>🤝 <b>Сильная сторона</b></td><td>Работа в команде</td></tr>
+</table>
 
 ## 🌙 Чем я занят прямо сейчас
 
@@ -34,10 +30,10 @@ public class DueSlik : Student
 </p>
 <!-- ANIME:END -->
 
-## 🛠 Стек
+## 🎒 Инвентарь
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,git,github,vscode,visualstudio&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,sass,git,github,vscode,visualstudio&perline=10&theme=dark" />
 </p>
 
 ## 🚀 Проекты
@@ -57,9 +53,12 @@ public class DueSlik : Student
 
 ### 🚗 [BMW Drive](https://github.com/DmitrygitDueslik/CML_Course_Project)
 
-Интернет-магазин автомобилей BMW — мой курсовой проект. Сайт на чистом HTML, без фреймворков.
+Интернет-магазин автомобилей BMW — мой курсовой проект. Вёрстка на HTML и SCSS, интерактив на JavaScript.
 
 ![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7)
+![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css&logoColor=7aa2f7)
+![SCSS](https://img.shields.io/badge/SCSS-1a1b27?style=flat-square&logo=sass&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=7aa2f7)
 
 </td>
 </tr>
@@ -67,7 +66,7 @@ public class DueSlik : Student
 
 <p align="center"><sub>Новые проекты уже в пути 🛠</sub></p>
 
-## 📊 Статистика
+## 📈 Прогресс
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
