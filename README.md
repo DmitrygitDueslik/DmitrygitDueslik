@@ -43,7 +43,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
 </p>
 
 <p align="center">
