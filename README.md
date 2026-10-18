@@ -54,7 +54,7 @@
 
 ### 🚗 [BMW Drive](https://github.com/DmitrygitDueslik/CML_Course_Project)
 
-Интернет-магазин автомобилей BMW — мой курсовой проект. Вёрстка на HTML и SCSS, интерактив на JavaScript.
+Интернет-магазин автомобилей BMW - мой курсовой проект. Вёрстка на HTML и SCSS, интерактив на JavaScript.
 
 ![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7)
 ![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css&logoColor=7aa2f7)
