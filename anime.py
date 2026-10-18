@@ -2,15 +2,15 @@ import datetime, json, os, re, urllib.parse, urllib.request
 
 USER = os.environ["GH_USER"]
 TOKEN = os.environ["GH_TOKEN"]
-DAYS = 7  # за сколько последних дней считать коммиты
+DAYS = 7 
 
-# (от скольких коммитов, ссылка на гифку, подпись)
+
 RAW = "https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/"
 
 LEVELS = [
-    (0,  RAW + "sleep.gif", "😴 Сплю…"),
-    (1,  RAW + "walk.gif",  "🚶 Потихоньку иду к цели"),
-    (10, RAW + "work.gif",  "🔥 Усердно работаю!"),
+    (0,  RAW + "sleep.svg", "😴 Сплю…"),
+    (1,  RAW + "walk.svg",  "🚶 Потихоньку иду к цели"),
+    (10, RAW + "work.svg",  "🔥 Усердно работаю!"),
 ]
 
 since = (datetime.date.today() - datetime.timedelta(days=DAYS)).isoformat()
