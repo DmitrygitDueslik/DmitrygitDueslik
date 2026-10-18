@@ -51,7 +51,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DmitrygitDueslik&theme=tokyo-night&hide_border=true&radius=12" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
