@@ -48,9 +48,9 @@
 <!-- ANIME:START -->
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide_rank=true" />
-  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.gif" />
+  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
 </p>
-<p align="center"><sub>🔥 Усердно работаю! · коммитов за 7 дней: 32</sub></p>
+<p align="center"><sub>🔥 Усердно работаю! · коммитов за 7 дней: 42</sub></p>
 <!-- ANIME:END -->
 
 <p align="center">
