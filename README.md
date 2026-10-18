@@ -34,10 +34,10 @@
 
 <p align="center">
   <a href="https://github.com/DmitrygitDueslik/CalculatorFor12">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitrygitDueslik&repo=CalculatorFor12&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitrygitDueslik&repo=CalculatorFor12&theme=tokyonight&hide_border=true&border_radius=12&v=2" />
   </a>
   <a href="https://github.com/DmitrygitDueslik/CML_Course_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitrygitDueslik&repo=CML_Course_Project&theme=tokyonight&hide_border=true&border_radius=12" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitrygitDueslik&repo=CML_Course_Project&theme=tokyonight&hide_border=true&border_radius=12&v=2" />
   </a>
 </p>
 
