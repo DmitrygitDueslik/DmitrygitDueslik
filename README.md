@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmitrygitDueslik&label=Profile%20views&color=7aa2f7&style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitrygitDueslik.DmitrygitDueslik&left_text=Profile%20views&left_color=%231a1b27&right_color=%237aa2f7" />
 </p>
 
 ---
@@ -45,13 +45,11 @@
 
 ## 📊 Статистика
 
-<!-- ANIME:START -->
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide_rank=true" />
   <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
 </p>
 <p align="center"><sub>🔥 Усердно работаю! · коммитов за 7 дней: 43</sub></p>
-<!-- ANIME:END -->
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
