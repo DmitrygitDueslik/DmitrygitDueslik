@@ -8,36 +8,35 @@
   <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmitrygitdraynov%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
-## 👤  Карточка обо мне
+## 👤 About me
 
 <table align="center">
-  <tr><td>🎓 <b>Кто я</b></td><td>Студент-программист</td></tr>
-  <tr><td>📅 <b>Курс</b></td><td>3 семестр</td></tr>
-  <tr><td>💻 <b>Языки</b></td><td>C++ · C# · JavaScript · HTML / SCSS</td></tr>
-  <tr><td>🔭 <b>Сейчас изучаю</b></td><td>ООП и скриптовые языки</td></tr>
-  <tr><td>✅ <b>Готовые проекты</b></td><td>🧮 Калькулятор · 🚗 BMW Drive</td></tr>
-  <tr><td>🤝 <b>Сильная сторона</b></td><td>Работа в команде</td></tr>
+  <tr><td>🎓 <b>Who I am</b></td><td>Software engineering student</td></tr>
+  <tr><td>📅 <b>Year</b></td><td>2nd year, 3rd semester</td></tr>
+  <tr><td>💻 <b>Languages</b></td><td>C++ · C# · JavaScript · HTML / SCSS</td></tr>
+  <tr><td>🔭 <b>Currently learning</b></td><td>OOP and scripting languages</td></tr>
+  <tr><td>✅ <b>Finished projects</b></td><td>🧮 Calculator · 🚗 BMW Drive</td></tr>
+  <tr><td>🤝 <b>Strong side</b></td><td>Teamwork</td></tr>
 </table>
 
-## 🌙 Чем я занят прямо сейчас
+## 🌙 What I'm up to right now
 
-<p align="center"><sub>Персонаж справа живёт по моим коммитам: нет коммитов — спит, немного — гуляет, много — усердно работает</sub></p>
+<p align="center"><sub>The character on the right lives by my commits: no commits — sleeping, a few — on the way, a lot — working hard</sub></p>
 
 <!-- ANIME:START -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide_rank=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=true" />
   <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
 </p>
-<p align="center"><sub>🔥 Усердно работаю! · коммитов за 7 дней: 53</sub></p>
 <!-- ANIME:END -->
 
- ## 🧰 Инструменты
+## 🧰 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,sass,git,github,vscode,visualstudio&perline=10&theme=dark" />
 </p>
 
-## 🚀 Проекты
+## 🚀 Projects
 
 <table>
 <tr>
@@ -45,7 +44,7 @@
 
 ### 🧮 [CalculatorFor12](https://github.com/DmitrygitDueslik/CalculatorFor12)
 
-Консольный калькулятор, который умеет больше, чем кажется: обычный и расширенный режимы, перевод между системами счисления и работа с ASCII. Делали командой.
+A console calculator that does more than it seems: standard and advanced modes, number system conversion and ASCII tools. Built as a team.
 
 ![C++](https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=7aa2f7)
 
@@ -54,7 +53,7 @@
 
 ### 🚗 [BMW Drive](https://github.com/DmitrygitDueslik/CML_Course_Project)
 
-Интернет-магазин автомобилей BMW - мой курсовой проект. Вёрстка на HTML и SCSS, интерактив на JavaScript.
+An online BMW car store — my course project. Layout in HTML and SCSS, interactivity in JavaScript.
 
 ![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7)
 ![CSS](https://img.shields.io/badge/CSS-1a1b27?style=flat-square&logo=css&logoColor=7aa2f7)
@@ -65,13 +64,13 @@
 </tr>
 </table>
 
-<p align="center"><sub>Новые проекты уже в пути 🛠</sub></p>
+<p align="center"><sub>More projects on the way 🛠</sub></p>
 
-## 📈 Прогресс
+## 📈 Progress
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
-  <img height="170" src="https://streak-stats.demolab.com?user=DmitrygitDueslik&theme=tokyonight&hide_border=true&border_radius=12&locale=ru" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
+  <img height="170" src="https://streak-stats.demolab.com?user=DmitrygitDueslik&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
@@ -81,12 +80,10 @@
   </picture>
 </p>
 
-<p align="center"><i>//Здраствуйте</i></p>
-  <p align="center"><i>// Спасибо, что заглянули 👋</i></p>
-  <p align="center">
+<p align="center">
   <img height="140" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/panda.svg" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
+
+<p align="center"><i>Thanks for stopping by 👋</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
