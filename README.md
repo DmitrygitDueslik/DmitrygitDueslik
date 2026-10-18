@@ -28,6 +28,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=true" />
   <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
 </p>
+<p align="center"><sub>🔥 Working hard! · commits in the last 7 days: 56</sub></p>
 <!-- ANIME:END -->
 
 ## 🧰 Tools
