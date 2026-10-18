@@ -34,9 +34,18 @@
 
 ## 🧰 Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,sass,git,github,vscode,visualstudio&perline=10&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td align="center"><b>⚙️ Dev Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,js&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,sass&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" /></td>
+  </tr>
+</table>
 
 ## 🚀 Projects
 
