@@ -17,7 +17,7 @@
 > 🚀 Постоянно изучаю новые технологии и делаю проекты
 
 <p align="center">
-  <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
+  <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmitrygitdraynov%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
 ---
