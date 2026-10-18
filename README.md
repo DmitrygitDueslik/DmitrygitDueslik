@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=DueSlik&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Привет!+Я+Дмитрий+👋;Пишу+на+C%2B%2B%2C+C%23+и+JavaScript;Учусь+и+создаю+новое+каждый+день" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dmitry;C%2B%2B+%7C+C%23+%7C+JavaScript;Always+learning+something+new" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DmitrygitDueslik&label=Просмотры+профиля&color=7aa2f7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DmitrygitDueslik&label=Profile%20views&color=7aa2f7&style=flat-square" />
 </p>
 
 ---
