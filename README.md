@@ -5,22 +5,34 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitrygitDueslik.DmitrygitDueslik&left_text=Profile%20views&left_color=%231a1b27&right_color=%237aa2f7" />
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Обо мне
-
-> 🎓 Студент-программист  
-> 💡 Интересуюсь разработкой приложений и алгоритмами  
-> 🚀 Постоянно изучаю новые технологии и делаю проекты
-
-<p align="center">
   <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmitrygitdraynov%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
----
+## 👾 Кто я
+
+```csharp
+public class DueSlik : Student
+{
+    public string   Name  => "Дмитрий";
+    public string   Now   => "3 семестр: ООП на C# и скриптовые языки";
+    public string[] Stack => new[] { "C++", "C#", "JavaScript", "HTML/CSS" };
+    public string   Fuel  => "чай ☕ + аниме по вечерам";
+
+    public void Compile() =>
+        Console.WriteLine("Скомпилировалось с первого раза? Подозрительно 🤨");
+}
+```
+
+## 🌙 Чем я занят прямо сейчас
+
+<p align="center"><sub>Персонаж справа живёт по моим коммитам: нет коммитов — спит, немного — гуляет, много — усердно работает</sub></p>
+
+<!-- ANIME:START -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide_rank=true" />
+  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
+</p>
+<!-- ANIME:END -->
 
 ## 🛠 Стек
 
@@ -28,35 +40,38 @@
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,git,github,vscode,visualstudio&perline=9&theme=dark" />
 </p>
 
----
+## 🚀 Проекты
 
-## 📌 Проекты
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/DmitrygitDueslik/CalculatorFor12">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitrygitDueslik&repo=CalculatorFor12&theme=tokyonight&hide_border=true&border_radius=12&v=2" />
-  </a>
-  <a href="https://github.com/DmitrygitDueslik/CML_Course_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitrygitDueslik&repo=CML_Course_Project&theme=tokyonight&hide_border=true&border_radius=12&v=2" />
-  </a>
-</p>
+### 🧮 [CalculatorFor12](https://github.com/DmitrygitDueslik/CalculatorFor12)
 
----
+Консольный калькулятор, который умеет больше, чем кажется: обычный и расширенный режимы, перевод между системами счисления и работа с ASCII. Делали командой.
+
+![C++](https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=7aa2f7)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 [BMW Drive](https://github.com/DmitrygitDueslik/CML_Course_Project)
+
+Интернет-магазин автомобилей BMW — мой курсовой проект. Сайт на чистом HTML, без фреймворков.
+
+![HTML](https://img.shields.io/badge/HTML-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Новые проекты уже в пути 🛠</sub></p>
 
 ## 📊 Статистика
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide_rank=true" />
-  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
-</p>
-<p align="center"><sub>🔥 Усердно работаю! · коммитов за 7 дней: 43</sub></p>
-
-<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DmitrygitDueslik&theme=tokyonight&hide_border=true&border_radius=12&locale=ru" />
+  <img height="170" src="https://streak-stats.demolab.com?user=DmitrygitDueslik&theme=tokyonight&hide_border=true&border_radius=12&locale=ru" />
 </p>
 
 <p align="center">
@@ -65,5 +80,7 @@
     <img src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/output/github-snake.svg" width="100%" />
   </picture>
 </p>
+
+<p align="center"><i>// TODO: стать сеньором</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
