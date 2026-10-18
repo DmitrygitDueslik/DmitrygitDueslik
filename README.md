@@ -12,13 +12,17 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Обо мне
 
->  Студент-программист  
->  Интересуюсь разработкой приложений и алгоритмами  
->  Постоянно изучаю новые технологии и делаю проекты
+> 🎓 Студент-программист  
+> 💡 Интересуюсь разработкой приложений и алгоритмами  
+> 🚀 Постоянно изучаю новые технологии и делаю проекты
+
+<p align="center">
+  <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7" /></a>
+</p>
 
 ---
 
-##  Стек
+## 🛠 Стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,git,github,vscode,visualstudio&perline=9&theme=dark" />
@@ -39,10 +43,15 @@
 
 ---
 
-##  Статистика
+## 📊 Статистика
+
+<!-- ANIME:START -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide_rank=true" />
+</p>
+<!-- ANIME:END -->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&locale=ru" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&locale=ru&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
 </p>
 
