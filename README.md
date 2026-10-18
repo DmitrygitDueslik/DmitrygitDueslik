@@ -80,6 +80,6 @@
   </picture>
 </p>
 
-<p align="center"><i>// TODO: стать сеньором</i></p>
+<p align="center"><i>//Здраствуйте</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
