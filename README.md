@@ -36,14 +36,21 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td align="center"><b>🎨 Frontend</b></td>
-    <td align="center"><b>⚙️ Dev Tools</b></td>
+    <td align="center" colspan="3"><b>💻 Languages</b></td>
+    <td align="center" colspan="3"><b>🎨 Frontend</b></td>
+    <td align="center" colspan="4"><b>⚙️ Dev Tools</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,cs,js&theme=dark" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,sass&theme=dark" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br/><sub>C++</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" /><br/><sub>C#</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" /><br/><sub>HTML</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" /><br/><sub>CSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sass&theme=dark" width="40" /><br/><sub>SCSS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" /><br/><sub>VS Code</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="40" /><br/><sub>Visual Studio</sub></td>
   </tr>
 </table>
 
