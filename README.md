@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmitrygitdraynov%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://t.me/kagesdm"><img src="https://img.shields.io/badge/Telegram-%40kagedsm-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="https://t.me/kagedsm"><img src="https://img.shields.io/badge/Telegram-%40kagedsm-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
 ## 👤 About me
@@ -22,14 +22,14 @@
 
 ## 🌙 What I'm up to right now
 
-<p align="center"><sub>The character on the right lives by my commits: no commits — sleeping, a few — on the way, a lot — working hard</sub></p>
+<p align="center">The character on the right lives by my commits:<br/>😴 no commits — sleeping · 🚶 a few — on the way · 🔥 a lot — working hard</p>
 
 <!-- ANIME:START -->
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=true" />
   <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/work.svg" />
 </p>
-<p align="center"><sub>🔥 Working hard! · commits in the last 7 days: 56</sub></p>
+<p align="center"><b>🔥 Working hard!</b> · commits in the last 7 days: <b>56</b></p>
 <!-- ANIME:END -->
 
 ## 🧰 Tools
@@ -41,16 +41,16 @@
     <td align="center" colspan="4"><b>⚙️ Dev Tools</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br/><sub>C++</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="40" /><br/><sub>C#</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" /><br/><sub>JavaScript</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" /><br/><sub>HTML</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" /><br/><sub>CSS</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sass&theme=dark" width="40" /><br/><sub>SCSS</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" /><br/><sub>GitHub</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" /><br/><sub>VS Code</sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="40" /><br/><sub>Visual Studio</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" /><br/><b>C++</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" /><br/><b>C#</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br/><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /><br/><b>HTML</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /><br/><b>CSS</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sass&theme=dark" width="48" /><br/><b>SCSS</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/><b>GitHub</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/><b>VS Code</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" /><br/><b>Visual Studio</b></td>
   </tr>
 </table>
 
@@ -82,7 +82,7 @@ An online BMW car store — my course project. Layout in HTML and SCSS, interact
 </tr>
 </table>
 
-<p align="center"><sub>More projects on the way 🛠</sub></p>
+<p align="center"><b>More projects on the way 🛠</b></p>
 
 ## 📈 Progress
 
@@ -102,6 +102,6 @@ An online BMW car store — my course project. Layout in HTML and SCSS, interact
   <img height="140" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/panda.svg" />
 </p>
 
-<p align="center"><i>Thanks for stopping by 👋</i></p>
+<h3 align="center"><i>Thanks for stopping by 👋</i></h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
