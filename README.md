@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:dmitrygitdraynov@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmitrygitdraynov%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="https://t.me/kagedsm"><img src="https://img.shields.io/badge/Telegram-%40kagedsm-7aa2f7?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1b27" /></a>
 </p>
 
 ## 👤 About me
