@@ -31,7 +31,7 @@ block = f"""<!-- ANIME:START -->
   <img height="170" src="{STATS}" />
   <img height="170" src="{gif}" />
 </p>
-<p align="center"><sub>{caption} · commits in the last {DAYS} days: {count}</sub></p>
+<p align="center"><b>{caption}</b> · commits in the last {DAYS} days: <b>{count}</b></p>
 <!-- ANIME:END -->"""
 
 with open("README.md", encoding="utf-8") as f:
