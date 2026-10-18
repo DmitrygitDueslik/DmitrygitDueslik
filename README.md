@@ -84,9 +84,9 @@
 <p align="center"><i>//Здраствуйте</i></p>
   <p align="center"><i>// Спасибо, что заглянули 👋</i></p>
   <p align="center">
-  <img height="140" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/panda.gif" />
+  <img height="140" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/panda.svg" />
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" width="100%"/>
