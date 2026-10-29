@@ -23,8 +23,7 @@ count = json.load(urllib.request.urlopen(req))["total_count"]
 
 need, gif, caption = [lvl for lvl in LEVELS if count >= lvl[0]][-1]
 
-STATS = ("https://github-readme-stats.vercel.app/api?username=" + USER +
-         "&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=true")
+STATS = RAW + "cards/stats.svg"
 
 block = f"""<!-- ANIME:START -->
 <p align="center">
