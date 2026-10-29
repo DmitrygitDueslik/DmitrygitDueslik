@@ -26,7 +26,7 @@
 
 <!-- ANIME:START -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=true" />
+  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/cards/stats.svg" />
   <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/walk.svg" />
 </p>
 <p align="center"><b>🚶 On my way</b> · commits in the last 7 days: <b>8</b></p>
