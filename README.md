@@ -26,7 +26,7 @@
 
 <!-- ANIME:START -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DmitrygitDueslik&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&hide_rank=true" />
+  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/cards/stats.svg" />
   <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/walk.svg" />
 </p>
 <p align="center"><b>🚶 On my way</b> · commits in the last 7 days: <b>8</b></p>
@@ -87,7 +87,7 @@ An online BMW car store - my course project. Layout in HTML and SCSS, interactiv
 ## 📈 Progress
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitrygitDueslik&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&hide=rich%20text%20format&exclude_repo=Sem1-2025,SEM2" />
+  <img height="170" src="https://raw.githubusercontent.com/DmitrygitDueslik/DmitrygitDueslik/main/cards/langs.svg" />
   <img height="170" src="https://streak-stats.demolab.com?user=DmitrygitDueslik&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
